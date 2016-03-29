@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="bug">img/kbugbuster.png</file>
+        <file alias="add_user">img/list-add-user.png</file>
+        <file alias="add">img/list-add.png</file>
+        <file alias="remove_user">img/list-remove-user.png</file>
+        <file alias="remove">img/list-remove.png</file>
+        <file alias="edit_user">img/user-properties.png</file>
+        <file alias="settings">img/package_settings_components.png</file>
+        <file alias="exit">img/application-exit.png</file>
+    </qresource>
+</RCC>
